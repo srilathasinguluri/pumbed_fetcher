@@ -92,14 +92,10 @@ if __name__ == "__main__":
 
 📌 How to Run the Script
 Install required packages:
-sh
-Copy
-Edit
+
 pip install biopython
 Run the script:
-sh
-Copy
-Edit
+
 python pubmed_fetcher.py
 The results will be saved in pubmed_results.csv.
 📌 Output Format (CSV)
