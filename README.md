@@ -11,8 +11,8 @@ Company Affiliation(s) (Biotech/Pharma companies)
 Corresponding Author Email
 Save to a CSV file.
 
->write python program
->📌 How to Run the Script
+write python program
+📌 How to Run the Script
 Install required packages:
 
 pip install biopython
