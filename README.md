@@ -10,3 +10,19 @@ Non-academic Author(s) (Filtered based on affiliation)
 Company Affiliation(s) (Biotech/Pharma companies)
 Corresponding Author Email
 Save to a CSV file.
+
+>write python program
+>📌 How to Run the Script
+Install required packages:
+
+pip install biopython
+Run the script:
+
+python pubmed_fetcher.py
+The results will be saved in pubmed_results.csv.
+📌 Output Format (CSV)
+PubmedID	Title	Publication Date	Non-academic Author(s)	Company Affiliation(s)	Corresponding Author Email
+12345678	Sample Paper Title	2024-01-01	John Doe	ABC Pharma Inc.	john.doe@example.com
+📌 Notes
+PubMed does not always provide emails, so the script uses a placeholder (N/A).
+If non-academic authors or company affiliations are missing, the column will have N/A.
