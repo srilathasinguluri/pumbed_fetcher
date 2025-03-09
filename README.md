@@ -1,5 +1,5 @@
 Code Organization
-the project is structured as follows:
+in project is structured as follows:
 
 pubmed_fetcher.py → The main script that fetches research papers from PubMed, extracts required details, and saves them as a CSV file.
 requirements.txt → Contains the list of required dependencies for the project.
